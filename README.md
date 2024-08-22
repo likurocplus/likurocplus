@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Souta and I'm a backend developer, from Cà Ná</h2>
+<h2 align="left">Hi 👋! My name is Souta and I'm a Software Engineer</h2>
 
 ###
 
