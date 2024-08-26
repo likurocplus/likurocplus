@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! My name is Souta and I'm a Software Engineer</h2>
+<h2 align="center">🔭 My name is Luong Vo Khoi Quoc
+🏫I am studying at Posts & Telecoms Institute of Technology
+😚I love programming
+</h2>
 
 ###
 
