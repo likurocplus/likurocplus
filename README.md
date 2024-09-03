@@ -13,7 +13,7 @@
 
 ###
 
-<img align="right" height="200" src="[https://media1.tenor.com/m/ZQndYO4NwBcAAAAC/gojo-satoru.gif](https://steamuserimages-a.akamaihd.net/ugc/449611652050198394/003B0F458420C44A75D10CBDC94A9C0B964C06F7/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)"  />
+<img align="right" height="200" src="https://gifsec.com/wp-content/uploads/2022/10/cute-anime-girl-9.gif"  />
 
 ###
 
