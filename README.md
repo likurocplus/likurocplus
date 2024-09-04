@@ -2,7 +2,6 @@
   
 🏫I am studying at Posts & Telecoms Institute of Technology
 
-😚I love programming
 </h2>
 
 ###
